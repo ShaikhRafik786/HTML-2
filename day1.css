@@ -1,0 +1,30 @@
+a {
+  padding: 5px;
+  border-radius: 10px;
+  background-color: aqua;
+  margin: 20px;
+}
+
+.side{
+  display: flex;
+  border: 2px solid pink;
+  width: 200px;
+  padding-right: 10px;
+}
+.side p{
+  background-color: palevioletred;
+font-size: larger;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+word-spacing: 2px;
+
+}
+.sec{
+  color: blueviolet;
+  background-color: yellowgreen;
+}
+
+.footer ul h1{
+ display: flex;
+  color: blue;
+  padding-left: 1px;
+}
